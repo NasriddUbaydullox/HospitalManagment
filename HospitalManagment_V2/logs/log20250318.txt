@@ -1,0 +1,14 @@
+2025-03-18 16:59:47.932 +05:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-03-18 16:59:48.082 +05:00 [INF] Now listening on: https://localhost:7127
+2025-03-18 16:59:48.084 +05:00 [INF] Now listening on: http://localhost:5132
+2025-03-18 16:59:48.142 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 16:59:48.143 +05:00 [INF] Hosting environment: Development
+2025-03-18 16:59:48.144 +05:00 [INF] Content root path: C:\Users\user\source\repos\HospitalManagment_V2
+2025-03-18 16:59:48.698 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/index.html - null null
+2025-03-18 16:59:48.857 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/index.html - 200 null text/html;charset=utf-8 159.996ms
+2025-03-18 16:59:48.916 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_vs/browserLink - null null
+2025-03-18 16:59:48.916 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-18 16:59:48.939 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 22.3048ms
+2025-03-18 16:59:48.963 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.9502ms
+2025-03-18 16:59:49.164 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - null null
+2025-03-18 16:59:49.228 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 63.6748ms

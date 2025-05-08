@@ -1,0 +1,342 @@
+2025-03-20 13:33:39.153 +05:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'HospitalManagment_V2.Middleware.CorreletionIdMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2025-03-20 13:33:39.232 +05:00 [ERR] Hosting failed to start
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'HospitalManagment_V2.Middleware.CorreletionIdMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-03-20 13:35:41.643 +05:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'HospitalManagment_V2.Middleware.CorreletionIdMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2025-03-20 13:35:41.716 +05:00 [ERR] Hosting failed to start
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'HospitalManagment_V2.Middleware.CorreletionIdMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-03-20 13:36:11.561 +05:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'HospitalManagment_V2.Middleware.CorreletionIdMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2025-03-20 13:36:11.645 +05:00 [ERR] Hosting failed to start
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'HospitalManagment_V2.Middleware.CorreletionIdMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-03-20 13:36:45.480 +05:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'HospitalManagment_V2.Middleware.CorreletionIdMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2025-03-20 13:36:45.560 +05:00 [ERR] Hosting failed to start
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Http.HttpContext' while attempting to activate 'HospitalManagment_V2.Middleware.CorreletionIdMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.ReflectionMiddlewareBinder.CreateMiddleware(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-03-20 13:39:39.907 +05:00 [INF] Now listening on: https://localhost:7127
+2025-03-20 13:39:39.942 +05:00 [INF] Now listening on: http://localhost:5132
+2025-03-20 13:39:40.026 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 13:39:40.029 +05:00 [INF] Hosting environment: Development
+2025-03-20 13:39:40.030 +05:00 [INF] Content root path: C:\Users\user\source\repos\HospitalManagment_V2
+2025-03-20 13:39:40.811 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger - null null
+2025-03-20 13:39:40.994 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger - 301 0 null 198.6656ms
+2025-03-20 13:39:41.002 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/index.html - null null
+2025-03-20 13:39:41.085 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/index.html - 200 null text/html;charset=utf-8 82.7348ms
+2025-03-20 13:39:41.113 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/swagger-ui.css - null null
+2025-03-20 13:39:41.113 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/swagger-ui-bundle.js - null null
+2025-03-20 13:39:41.115 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-20 13:39:41.114 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/swagger-ui-standalone-preset.js - null null
+2025-03-20 13:39:41.118 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_vs/browserLink - null null
+2025-03-20 13:39:41.176 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 57.1283ms
+2025-03-20 13:39:41.240 +05:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-03-20 13:39:41.241 +05:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-03-20 13:39:41.245 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 131.6259ms
+2025-03-20 13:39:41.248 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/swagger-ui.css - 200 152034 text/css 135.3228ms
+2025-03-20 13:39:41.286 +05:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-03-20 13:39:41.288 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 174.7742ms
+2025-03-20 13:39:41.330 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_vs/browserLink - 200 null text/javascript; charset=UTF-8 211.3212ms
+2025-03-20 13:39:41.481 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - null null
+2025-03-20 13:39:41.558 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 77.7466ms
+2025-03-20 13:50:33.978 +05:00 [INF] Now listening on: https://localhost:7127
+2025-03-20 13:50:34.025 +05:00 [INF] Now listening on: http://localhost:5132
+2025-03-20 13:50:34.141 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 13:50:34.146 +05:00 [INF] Hosting environment: Development
+2025-03-20 13:50:34.152 +05:00 [INF] Content root path: C:\Users\user\source\repos\HospitalManagment_V2
+2025-03-20 13:50:34.863 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/index.html - null null
+2025-03-20 13:50:35.195 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/index.html - 200 null text/html;charset=utf-8 344.807ms
+2025-03-20 13:50:35.229 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-20 13:50:35.229 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_vs/browserLink - null null
+2025-03-20 13:50:35.243 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 13.8778ms
+2025-03-20 13:50:35.318 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_vs/browserLink - 200 null text/javascript; charset=UTF-8 88.9832ms
+2025-03-20 13:50:35.455 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - null null
+2025-03-20 13:50:35.553 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 99.3688ms
+2025-03-20 13:50:50.402 +05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7127/api/Test/test - application/json 166
+2025-03-20 13:50:50.427 +05:00 [ERR] HTTP GET /api/Test/test responded 500 in 4.9721 ms
+System.InvalidOperationException: No service for type 'HospitalManagment_V2.Middleware.ConfigurationMiddleware' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Http.MiddlewareFactory.Create(Type middlewareType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-03-20 13:50:50.530 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'HospitalManagment_V2.Middleware.ConfigurationMiddleware' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Http.MiddlewareFactory.Create(Type middlewareType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-20 13:50:50.586 +05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7127/api/Test/test - 500 null text/plain; charset=utf-8 184.1586ms
+2025-03-20 13:51:04.393 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/api/Test/test - null null
+2025-03-20 13:51:04.403 +05:00 [ERR] HTTP GET /api/Test/test responded 500 in 1.4003 ms
+System.InvalidOperationException: No service for type 'HospitalManagment_V2.Middleware.ConfigurationMiddleware' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Http.MiddlewareFactory.Create(Type middlewareType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-03-20 13:51:04.412 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'HospitalManagment_V2.Middleware.ConfigurationMiddleware' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Http.MiddlewareFactory.Create(Type middlewareType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-20 13:51:04.424 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/api/Test/test - 500 null text/plain; charset=utf-8 31.3588ms
+2025-03-20 13:51:54.898 +05:00 [INF] Now listening on: https://localhost:7127
+2025-03-20 13:51:54.938 +05:00 [INF] Now listening on: http://localhost:5132
+2025-03-20 13:51:55.025 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 13:51:55.029 +05:00 [INF] Hosting environment: Development
+2025-03-20 13:51:55.032 +05:00 [INF] Content root path: C:\Users\user\source\repos\HospitalManagment_V2
+2025-03-20 13:51:55.494 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/index.html - null null
+2025-03-20 13:51:55.731 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/index.html - 200 null text/html;charset=utf-8 250.0946ms
+2025-03-20 13:51:55.769 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_vs/browserLink - null null
+2025-03-20 13:51:55.769 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-20 13:51:55.790 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 22.0537ms
+2025-03-20 13:51:55.824 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.4555ms
+2025-03-20 13:51:55.869 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - null null
+2025-03-20 13:51:55.944 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 75.7132ms
+2025-03-20 13:52:00.223 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/api/Test/test - null null
+2025-03-20 13:52:00.236 +05:00 [ERR] HTTP GET /api/Test/test responded 500 in 2.4036 ms
+System.InvalidOperationException: No service for type 'HospitalManagment_V2.Middleware.ConfigurationMiddleware' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Http.MiddlewareFactory.Create(Type middlewareType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-03-20 13:52:00.295 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'HospitalManagment_V2.Middleware.ConfigurationMiddleware' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Http.MiddlewareFactory.Create(Type middlewareType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-20 13:52:00.308 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/api/Test/test - 500 null text/plain; charset=utf-8 86.0048ms
+2025-03-20 13:52:11.033 +05:00 [INF] Now listening on: https://localhost:7127
+2025-03-20 13:52:11.073 +05:00 [INF] Now listening on: http://localhost:5132
+2025-03-20 13:52:11.231 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 13:52:11.233 +05:00 [INF] Hosting environment: Development
+2025-03-20 13:52:11.234 +05:00 [INF] Content root path: C:\Users\user\source\repos\HospitalManagment_V2
+2025-03-20 13:52:11.520 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/index.html - null null
+2025-03-20 13:52:11.733 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/index.html - 200 null text/html;charset=utf-8 223.5614ms
+2025-03-20 13:52:11.770 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-20 13:52:11.770 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_vs/browserLink - null null
+2025-03-20 13:52:11.787 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 17.9857ms
+2025-03-20 13:52:11.826 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_vs/browserLink - 200 null text/javascript; charset=UTF-8 57.3724ms
+2025-03-20 13:52:11.877 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - null null
+2025-03-20 13:52:11.943 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 66.4231ms
+2025-03-20 13:52:14.495 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/api/Test/test - null null
+2025-03-20 13:52:14.509 +05:00 [ERR] HTTP GET /api/Test/test responded 500 in 1.5319 ms
+System.InvalidOperationException: No service for type 'HospitalManagment_V2.Middleware.ConfigurationMiddleware' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Http.MiddlewareFactory.Create(Type middlewareType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-03-20 13:52:14.551 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'HospitalManagment_V2.Middleware.ConfigurationMiddleware' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Http.MiddlewareFactory.Create(Type middlewareType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-20 13:52:14.559 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/api/Test/test - 500 null text/plain; charset=utf-8 64.5321ms
+2025-03-20 13:52:53.657 +05:00 [INF] Now listening on: https://localhost:7127
+2025-03-20 13:52:53.710 +05:00 [INF] Now listening on: http://localhost:5132
+2025-03-20 13:52:53.820 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 13:52:53.825 +05:00 [INF] Hosting environment: Development
+2025-03-20 13:52:53.828 +05:00 [INF] Content root path: C:\Users\user\source\repos\HospitalManagment_V2
+2025-03-20 13:52:54.343 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/index.html - null null
+2025-03-20 13:52:54.524 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/index.html - 200 null text/html;charset=utf-8 190.5307ms
+2025-03-20 13:52:54.567 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-20 13:52:54.567 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_vs/browserLink - null null
+2025-03-20 13:52:54.586 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 19.0693ms
+2025-03-20 13:52:54.642 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_vs/browserLink - 200 null text/javascript; charset=UTF-8 75.4935ms
+2025-03-20 13:52:54.691 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - null null
+2025-03-20 13:52:54.771 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 80.3142ms
+2025-03-20 13:52:58.567 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/api/Test/test - null null
+2025-03-20 13:52:58.587 +05:00 [INF] Executing endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:52:58.618 +05:00 [INF] Route matched with {action = "TestCorrId", controller = "Test"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult TestCorrId() on controller HospitalManagment_V2.Controllers.TestController (HospitalManagment_V2).
+2025-03-20 13:52:58.632 +05:00 [INF] Executed action HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2) in 5.0152ms
+2025-03-20 13:52:58.634 +05:00 [INF] Executed endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:52:58.719 +05:00 [ERR] HTTP GET /api/Test/test responded 500 in 136.3401 ms
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'HospitalManagment_V2.Controllers.TestController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method6(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at HospitalManagment_V2.Middleware.CorreletionIdMiddleware.Invoke(HttpContext context, ICorroletionId correletionId) in C:\Users\user\source\repos\HospitalManagment_V2\Middleware\CorreletionIdMiddleware.cs:line 20
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-03-20 13:52:58.790 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'HospitalManagment_V2.Controllers.TestController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method6(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at HospitalManagment_V2.Middleware.CorreletionIdMiddleware.Invoke(HttpContext context, ICorroletionId correletionId) in C:\Users\user\source\repos\HospitalManagment_V2\Middleware\CorreletionIdMiddleware.cs:line 20
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-20 13:52:58.806 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/api/Test/test - 500 null text/plain; charset=utf-8 239.929ms
+2025-03-20 13:54:11.039 +05:00 [INF] Now listening on: https://localhost:7127
+2025-03-20 13:54:11.079 +05:00 [INF] Now listening on: http://localhost:5132
+2025-03-20 13:54:11.195 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 13:54:11.200 +05:00 [INF] Hosting environment: Development
+2025-03-20 13:54:11.202 +05:00 [INF] Content root path: C:\Users\user\source\repos\HospitalManagment_V2
+2025-03-20 13:54:11.915 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/index.html - null null
+2025-03-20 13:54:12.110 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/index.html - 200 null text/html;charset=utf-8 202.4504ms
+2025-03-20 13:54:12.153 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-20 13:54:12.153 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_vs/browserLink - null null
+2025-03-20 13:54:12.167 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 14.4386ms
+2025-03-20 13:54:12.211 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_vs/browserLink - 200 null text/javascript; charset=UTF-8 57.9248ms
+2025-03-20 13:54:12.253 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - null null
+2025-03-20 13:54:12.337 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 83.5435ms
+2025-03-20 13:54:14.816 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/api/Test/test - null null
+2025-03-20 13:54:14.838 +05:00 [INF] Executing endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:54:14.861 +05:00 [INF] Route matched with {action = "TestCorrId", controller = "Test"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult TestCorrId() on controller HospitalManagment_V2.Controllers.TestController (HospitalManagment_V2).
+2025-03-20 13:54:15.541 +05:00 [INF] CorreletionId a53ba99a-f48b-481d-aab1-44fe6e29deb2
+2025-03-20 13:54:16.600 +05:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT d."Id", d."Firstname", d."IsActive", d."Lastname", d."SpecialityId"
+FROM "Doctors" AS d
+2025-03-20 13:54:16.622 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[HospitalManagment_V2.DataAccess.Entities.Doctor, HospitalManagment_V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-03-20 13:54:16.639 +05:00 [INF] Executed action HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2) in 1769.8048ms
+2025-03-20 13:54:16.642 +05:00 [INF] Executed endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:54:16.647 +05:00 [INF] HTTP GET /api/Test/test responded 200 in 1811.1688 ms
+2025-03-20 13:54:16.661 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/api/Test/test - 200 null application/json; charset=utf-8 1845.4199ms
+2025-03-20 13:54:21.110 +05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7127/api/Test/test - application/json 166
+2025-03-20 13:54:21.121 +05:00 [INF] Executing endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:54:21.125 +05:00 [INF] Route matched with {action = "TestCorrId", controller = "Test"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult TestCorrId() on controller HospitalManagment_V2.Controllers.TestController (HospitalManagment_V2).
+2025-03-20 13:54:21.133 +05:00 [INF] CorreletionId 6303580b-b187-431a-90a3-6d6ddd6cd3ee
+2025-03-20 13:54:21.171 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT d."Id", d."Firstname", d."IsActive", d."Lastname", d."SpecialityId"
+FROM "Doctors" AS d
+2025-03-20 13:54:21.181 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[HospitalManagment_V2.DataAccess.Entities.Doctor, HospitalManagment_V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-03-20 13:54:21.398 +05:00 [INF] Executed action HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2) in 266.7799ms
+2025-03-20 13:54:21.405 +05:00 [INF] Executed endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:54:21.413 +05:00 [INF] HTTP GET /api/Test/test responded 200 in 292.9328 ms
+2025-03-20 13:54:21.421 +05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7127/api/Test/test - 200 null application/json; charset=utf-8 311.3979ms
+2025-03-20 13:55:54.397 +05:00 [INF] Now listening on: https://localhost:7127
+2025-03-20 13:55:54.461 +05:00 [INF] Now listening on: http://localhost:5132
+2025-03-20 13:55:54.646 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-20 13:55:54.649 +05:00 [INF] Hosting environment: Development
+2025-03-20 13:55:54.650 +05:00 [INF] Content root path: C:\Users\user\source\repos\HospitalManagment_V2
+2025-03-20 13:55:54.872 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/index.html - null null
+2025-03-20 13:55:55.128 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/index.html - 200 null text/html;charset=utf-8 265.9404ms
+2025-03-20 13:55:55.161 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_vs/browserLink - null null
+2025-03-20 13:55:55.161 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-20 13:55:55.182 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 19.0042ms
+2025-03-20 13:55:55.216 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.1964ms
+2025-03-20 13:55:55.277 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - null null
+2025-03-20 13:55:55.358 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7127/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 81.4446ms
+2025-03-20 13:57:51.969 +05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7127/api/Test/test - application/json 166
+2025-03-20 13:57:51.982 +05:00 [INF] Executing endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:57:52.002 +05:00 [INF] Route matched with {action = "TestCorrId", controller = "Test"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult TestCorrId() on controller HospitalManagment_V2.Controllers.TestController (HospitalManagment_V2).
+2025-03-20 13:57:52.199 +05:00 [INF] CorreletionId fbdf1a15-0e30-4d63-95d2-56c9caa67d02
+2025-03-20 13:57:53.177 +05:00 [INF] Executed DbCommand (20ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT d."Id", d."Firstname", d."IsActive", d."Lastname", d."SpecialityId"
+FROM "Doctors" AS d
+2025-03-20 13:57:53.203 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[HospitalManagment_V2.DataAccess.Entities.Doctor, HospitalManagment_V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-03-20 13:57:53.234 +05:00 [INF] Executed action HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2) in 1223.5397ms
+2025-03-20 13:57:53.237 +05:00 [INF] Executed endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:57:53.241 +05:00 [INF] HTTP GET /api/Test/test responded 200 in 1261.5001 ms
+2025-03-20 13:57:53.250 +05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7127/api/Test/test - 200 null application/json; charset=utf-8 1281.1834ms
+2025-03-20 13:58:27.008 +05:00 [INF] Request starting HTTP/1.1 GET https://localhost:7127/api/Test/test - application/json 166
+2025-03-20 13:58:27.019 +05:00 [INF] Executing endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:58:27.021 +05:00 [INF] Route matched with {action = "TestCorrId", controller = "Test"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult TestCorrId() on controller HospitalManagment_V2.Controllers.TestController (HospitalManagment_V2).
+2025-03-20 13:58:27.029 +05:00 [INF] CorreletionId d7508cfa-c9d6-4034-a912-7afbf97ddce7
+2025-03-20 13:58:27.051 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT d."Id", d."Firstname", d."IsActive", d."Lastname", d."SpecialityId"
+FROM "Doctors" AS d
+2025-03-20 13:58:27.059 +05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[HospitalManagment_V2.DataAccess.Entities.Doctor, HospitalManagment_V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-03-20 13:58:27.062 +05:00 [INF] Executed action HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2) in 34.2879ms
+2025-03-20 13:58:27.063 +05:00 [INF] Executed endpoint 'HospitalManagment_V2.Controllers.TestController.TestCorrId (HospitalManagment_V2)'
+2025-03-20 13:58:27.066 +05:00 [INF] HTTP GET /api/Test/test responded 200 in 47.5760 ms
+2025-03-20 13:58:27.068 +05:00 [INF] Request finished HTTP/1.1 GET https://localhost:7127/api/Test/test - 200 null application/json; charset=utf-8 59.8791ms

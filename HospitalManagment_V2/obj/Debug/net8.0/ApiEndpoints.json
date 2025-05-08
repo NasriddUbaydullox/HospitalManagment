@@ -1,0 +1,133 @@
+[
+  {
+    "ContainingType": "HospitalManagment_V2.Controllers.PatientController",
+    "Method": "CreatePatient",
+    "RelativePath": "api/Patient/create-patient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HospitalManagment_V2.Mediator.Patients.CreatePatient.CreatePatientCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HospitalManagment_V2.Controllers.PatientController",
+    "Method": "DeletePatientById",
+    "RelativePath": "api/Patient/delete-patient-by-id/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HospitalManagment_V2.Controllers.PatientController",
+    "Method": "GetPatientById",
+    "RelativePath": "api/Patient/get-patient-by-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HospitalManagment_V2.Controllers.PatientController",
+    "Method": "UpdatePatient",
+    "RelativePath": "api/Patient/update-patient",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HospitalManagment_V2.Mediator.Patients.UpdatePatientById.UpdatePatientCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HospitalManagment_V2.Controllers.TestController",
+    "Method": "GetAllDoctors",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[HospitalManagment_V2.Dtos.DoctorDto, HospitalManagment_V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "HospitalManagment_V2.Controllers.TestController",
+    "Method": "GetDoctorById",
+    "RelativePath": "api/Test/get-doctor-by-id-mediator/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HospitalManagment_V2.Controllers.TestController",
+    "Method": "TestCorrId",
+    "RelativePath": "api/Test/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HospitalManagment_V2.Controllers.AuthController",
+    "Method": "SignIn",
+    "RelativePath": "sign-in",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HospitalManagment_V2.Mediator.Auth.SignIn.SignInRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
